@@ -4,7 +4,7 @@
     height: 10vh;
     
     margin: auto;
-    background-color: #CDF0EA;
+    background-color:whitesmoke;
 
 }
 .Call-det1{
@@ -31,16 +31,16 @@
 }
 .Call-det4{
     grid-column: 4 /span 1;
-    height: 5vh;
-    width: 5vw;
+    height: 4vh;
+    width: 4vw;
     justify-self: center;
     align-self:center;
     cursor:pointer;
 }
 .Call-det5{
     grid-column: 5 /span 1;
-    height: 5vh;
-    width: 5vw;
+    height: 4vh;
+    width: 4vw;
     justify-self: center;
     align-self:center;
     cursor:pointer;

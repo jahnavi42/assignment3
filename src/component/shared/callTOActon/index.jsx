@@ -4,8 +4,8 @@ import "./style.css";
 import { Route, Routes } from "react-router-dom";
 import skin from "../../../assest/images/skin2.jpg";
 import callIcon from "../../../assest/images/call.png";
-import messageIcon from "../../../assest/images/messageIcon.svg";
-import whatsappIcon from "../../../assest/images/whatsappICon.svg";
+import messageIcon from "../../../assest/images/messageIcon.png";
+import whatsappIcon from "../../../assest/images/product.jpg";
 import { useNavigate } from "react-router-dom";
 export default function CallToAction(props) {
   let navigate = useNavigate();
@@ -23,13 +23,13 @@ export default function CallToAction(props) {
           src={messageIcon}
           alt=""
           className="Call-det4"
-          onClick={() => navigate("/contactus")}
+          onClick={() => navigate("/about")}
         />
         <img
           src={whatsappIcon}
           alt=""
           className="Call-det5"
-          onClick={() => navigate("/contactus")}
+          onClick={() => navigate("/products")}
         />
       </div>
     );

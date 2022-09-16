@@ -10,13 +10,7 @@ export default function ContactUs(props) {
             <span className="US-CON1">Contact</span>
         <div className="Us-Container">
           <img src={skin} alt="" className="Us-img" />
-          <input
-            type="text"
-            name=""
-            id=""
-            placeholder="Name"
-            className="Us-field1"
-          />
+        
           <input
             type="text"
             name=""

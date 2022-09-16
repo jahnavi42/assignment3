@@ -31,11 +31,11 @@ export default function ProdSpecf(props) {
         </span>
         <div className="prod-list">
           <span className="Prod-Detal-List">Skin Care - Products</span>
+          <span className="Prod-Detal-List">Skin Care - Items</span>
+          <span className="Prod-Detal-List">Organic - skin-care Products</span>
           <span className="Prod-Detal-List">Skin Care - Products</span>
-          <span className="Prod-Detal-List">Skin Care - Products</span>
-          <span className="Prod-Detal-List">Skin Care - Products</span>
-          <span className="Prod-Detal-List">Skin Care - Products</span>
-          <span className="Prod-Detal-List">Skin Care - Products</span>
+          <span className="Prod-Detal-List">Skin Care - Items</span>
+          <span className="Prod-Detal-List">Organic - skin-care Products</span>
         </div>
       </div>
     </div>
